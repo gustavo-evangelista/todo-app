@@ -76,3 +76,11 @@ Clone or download this repository.
 Open index.html in your browser.
 
 Start adding your todos!
+
+<hr>
+
+✅ Live Demo
+
+Click here to view (https://html-todoapp-internal-javascript.netlify.app)
+
+
